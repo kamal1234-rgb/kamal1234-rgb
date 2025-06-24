@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **patelkamal115@gmail.com**
 
-- 📄 Know about my experiences [View RESUME]([https://kamals-portfolio-one.vercel.app/](https://docs.google.com/document/d/1-68_VZOifv7kqo0bWeqmqI4b_npDczWmT2Ct1nXLGHs/edit?usp=sharing))
+- 📄 Know about my experiences [View RESUME](https://docs.google.com/document/d/1-68_VZOifv7kqo0bWeqmqI4b_npDczWmT2Ct1nXLGHs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
