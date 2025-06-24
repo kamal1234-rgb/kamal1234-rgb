@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working as a Senior Full Stack Developer with **Technoheaven**
 
-- 🌱 I’m currently learning **React Native, Ruby on rails, AWS, Web3**
+- 🌱 I’m currently learning **Vue.js, Nest.js, Ruby on rails, AWS, Web3**
 
 - 👨‍💻 All of my projects are available at [kamal's portfolio](https://kamals-portfolio-one.vercel.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, Node.Js, React, Vue.Js, Next.Js, Nest,Js, HTML, CSS, MonogDb**
+- 💬 Ask me about **JavaScript, TypeScript, Node.Js, React, React-Native, Next.Js, HTML, CSS, MonogDb**
 
 - 📫 How to reach me **patelkamal115@gmail.com**
 
-- 📄 Know about my experiences [https://kamals-portfolio-one.vercel.app/](https://kamals-portfolio-one.vercel.app/)
+- 📄 Know about my experiences [View RESUME]([https://kamals-portfolio-one.vercel.app/](https://docs.google.com/document/d/1-68_VZOifv7kqo0bWeqmqI4b_npDczWmT2Ct1nXLGHs/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
